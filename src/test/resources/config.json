@@ -1,0 +1,6 @@
+{
+  "methodUrl" : "https://api.vk.com/method/",
+  "baseUrl" : "https://vk.com/",
+  "pathPhoto" : "src/test/java/testData/photo.png",
+  "pathSavedPhoto" : "src/test/java/testData/savedPhoto.png"
+}
